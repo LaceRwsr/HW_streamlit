@@ -1,1 +1,0 @@
-web: sh setup.sh && streamlit run Hw_streamlit_6030492721.py
